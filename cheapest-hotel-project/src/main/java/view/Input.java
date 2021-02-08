@@ -9,6 +9,8 @@ public class Input {
 	private CustomerType customerType;
 	private List<Calendar> dates;
 	
+	
+	
 	public Input(CustomerType customerType, List<Calendar> dates) {
 		super();
 		this.customerType = customerType;

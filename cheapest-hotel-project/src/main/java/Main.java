@@ -9,6 +9,9 @@ import view.InputParser;
 public class Main {
 	public static void main(String[] args) {
 		
+		
+		
+		
 		System.out.print("Digite a entrada: ");
 		Scanner sc = new Scanner(System.in);
 		String strInput = "";
